@@ -1,0 +1,27 @@
+body{
+    font-family:Tahoma
+}
+#firstCol{
+    width: 50px;
+}
+
+th{
+    font-size:35px;
+    padding-bottom:40px;
+    padding-top:0px;
+    text-align:left;
+}
+table{
+    padding:1px;
+    border:1px solid #DFDFDF;
+    width:400px;
+    height: 150px;
+}
+
+#boldText{
+    font-weight: bold;
+}
+img{
+    width:150px;
+    height:150px
+}

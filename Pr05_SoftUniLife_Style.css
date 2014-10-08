@@ -1,0 +1,78 @@
+
+table, th, td{
+    border: 1px solid black;
+    font-family: Tahoma;
+}
+th{
+    padding:25px;
+}
+th, td{
+    width:100px;
+}
+
+th{
+    font-size: 50px;
+}
+#nested th{
+    font-size: 12px;
+}
+#nested{
+    margin:5px;
+    height:80px;
+}
+#google{
+    padding-left:5px;
+    padding-bottom:70px;
+    padding-top:5px;
+}
+#github{
+    text-align:right;
+    padding-right:5px;
+    padding-bottom:70px;
+    padding-top:5px;
+}
+#fb{
+    text-align:center;
+    padding-right:5px;
+    padding-bottom:70px;
+    padding-top:5px;
+}
+#gmail{
+    padding-left:5px;
+    padding-bottom:40px;
+    padding-top:40px;
+}
+#youtube{
+    text-align:center;
+    padding-bottom:5px;
+    padding-top:70px;
+}
+#2048{
+    padding-left:5px;
+    padding-bottom:70px;
+    padding-top:5px;
+}
+#food{
+    text-align:right;
+    padding-right:5px;
+    padding-bottom:5px;
+    padding-top:70px;
+}
+#game{
+    text-align:left;
+    padding-left:5px;
+    padding-bottom:5px;
+    padding-top:70px;
+}
+#beer{
+    text-align:right;
+    padding-right:5px;
+    padding-bottom:40px;
+    padding-top:40px;
+    font-size:30px;
+}
+#wc{
+    padding-left:5px;
+    padding-bottom:40px;
+    padding-top:40px;
+}
